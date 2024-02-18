@@ -1,0 +1,957 @@
+hopify-pixel","pixel_source":"APP","pixel_runtime_context":"STRICT","pixel_script_version":"0575","pixel_configuration":"{}","pixel_event_schema_version":"v1","event_name":"collection_viewed","event_type":"standard","event_i
+d":"sh-bb89bd10-D0C9-4063-DD63-34140E5F8315"},"metadata":{"event_created_at_ms":1708248378890}},{"schema_id":"web_pixels_manager_pixel_register/3.6","payload":{"version":"0.0.439","page_url":"https://www.myfonts.com/collecti
+ons/cultivated-mind-foundry","shop_id":56871649450,"surface":"storefront-renderer","pixel_id":"shopify-app-pixel","pixel_app_id":"shopify-pixel","pixel_source":"APP","pixel_runtime_context":"STRICT","pixel_script_version":"0
+575","pixel_configuration":"{}","pixel_event_schema_version":"v1","status":"registered","user_can_be_tracked":"true","shop_prefs":"unknown","bundle_target":"modern","error_msg":"N/A","duration":89,"start_time":3937,"session_
+id":"sh-bb89bd04-CF00-44FF-1459-86EEEBBAF5DD"},"metadata":{"event_created_at_ms":1708248378890}},{"schema_id":"web_pixels_manager_subscriber_event_emit/3.4","payload":{"version":"0.0.439","bundle_target":"modern","page_url":
+"https://www.myfonts.com/collections/cultivated-mind-foundry","shop_id":56871649450,"surface":"storefront-renderer","pixel_id":"shopify-custom-pixel","pixel_app_id":"shopify-pixel","pixel_source":"CUSTOM","pixel_runtime_cont
+ext":"LAX","pixel_script_version":"0575","pixel_event_schema_version":"v1","event_name":"page_viewed","event_type":"standard","event_id":"sh-bb89bd09-EF3A-4A3C-ED04-4C97C0AAC1B3"},"metadata":{"event_created_at_ms":1708248378
+960}},{"schema_id":"web_pixels_manager_subscriber_event_emit/3.4","payload":{"version":"0.0.439","bundle_target":"modern","page_url":"https://www.myfonts.com/collections/cultivated-mind-foundry","shop_id":56871649450,"surfac
+e":"storefront-renderer","pixel_id":"shopify-custom-pixel","pixel_app_id":"shopify-pixel","pixel_source":"CUSTOM","pixel_runtime_context":"LAX","pixel_script_version":"0575","pixel_event_schema_version":"v1","event_name":"co
+llection_viewed","event_type":"standard","event_id":"sh-bb89bd10-D0C9-4063-DD63-34140E5F8315"},"metadata":{"event_created_at_ms":1708248378961}},{"schema_id":"web_pixels_manager_pixel_register/3.6","payload":{"version":"0.0.
+439","page_url":"https://www.myfonts.com/collections/cultivated-mind-foundry","shop_id":56871649450,"surface":"storefront-renderer","pixel_id":"shopify-custom-pixel","pixel_app_id":"shopify-pixel","pixel_source":"CUSTOM","pi
+xel_runtime_context":"LAX","pixel_script_version":"0575","pixel_event_schema_version":"v1","status":"registered","user_can_be_tracked":"true","shop_prefs":"unknown","bundle_target":"modern","error_msg":"N/A","duration":160,"
+start_time":3937,"session_id":"sh-bb89bd04-CF00-44FF-1459-86EEEBBAF5DD"},"metadata":{"event_created_at_ms":1708248378961}}]}
+Request URL: https://cdn.shopify.com/shopifycloud/checkout-web/assets/272.latest.en.c7f6308ad91929f039ec.js
+Request method: GET
+Request headers: {
+  accept: 'application/signed-exchange;v=b3;q=0.7,*/*;q=0.8',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://easy-redirects.shopcircle.co/api/redirect-hit?shop=myfonts-production.myshopify.com&path=/collections/cultivated-mind-foundry
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.shopify.com/shopifycloud/checkout-web/assets/748.latest.en.ee3af826f9b349c71c90.js
+Request method: GET
+Request headers: {
+  accept: 'application/signed-exchange;v=b3;q=0.7,*/*;q=0.8',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://widget.privy.com/assets/widget.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.shopify.com/shopifycloud/checkout-web/assets/40.latest.en.cdad3f0de6680817c2af.js
+Request method: GET
+Request headers: {
+  accept: 'application/signed-exchange;v=b3;q=0.7,*/*;q=0.8',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://www.myfonts.com/cart.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  cookie: 'secure_customer_sig=; localization=US; cart_currency=USD; _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%
+22%3Afalse%7D; _tracking_consent=%7B%22lim%22%3A%5B%22CMP%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22BDC%22%2C%22reg%22%3A%22%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%
+22s%22%3A%22%22%7D%7D%7D; _shopify_y=7a75d16b-0e23-4bc5-91e3-5f502164f685; _orig_referrer=; _landing_page=%2Fcollections%2Fcultivated-mind-foundry; __cf_bm=f8q6uBLrQ3O6Uguu52dZz41L5u0Zct15Bussgpa3OPc-1708248542-1.0-ARRFuhHga
+2FGY/9IPwXgsZBwpp6xITR/bNn5zLZ1tObIxNh82xqiLXUFVixABsPG4kQmGxe97BGjsTnxHCavqq4=; AMCVS_6F4D62F6652DA0970A495FA5%40AdobeOrg=1; _shopify_s=c3d526f3-e880-4fd9-8bd9-6f52d55014bb; _ALGOLIA=anonymous-6a15ec58-bcca-45e7-a148-6c70f7
+7d4ecd; _shopify_sa_t=2024-02-18T09%3A26%3A18.809Z; _shopify_sa_p=; AMCV_6F4D62F6652DA0970A495FA5%40AdobeOrg=179643557%7CMCIDTS%7C19772%7CMCMID%7C50304190974219910982651954574496311037%7CMCAAMLH-1708853178%7C3%7CMCAAMB-17088
+53178%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1708255578s%7CNONE%7CMCSYNCSOP%7C411-19779%7CvVersion%7C5.5.0; cjConsent=MHxOfDB8Tnww; cjUser=f60e3df0-c49b-4426-b71b-929e52eb1269; _dd_s=rum=0&expire=1
+708249279127',
+  referer: 'https://www.myfonts.com/collections/cultivated-mind-foundry',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://www.mczbf.com/tags/184382925716/tag.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://api.privy.com/businesses/8194D6E94D95CD7F2CEC7A36/campaigns.json?s=j&l=https%3A%2F%2Fwww.myfonts.com%2Fcollections%2Fcultivated-mind-foundry&user_uuid=146a106f-ce89-4e44-8322-cab5e4850419&fence=1        
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.latest.en.9a89f18bfe9f45a35a59.js
+Request method: GET
+Request headers: {
+  accept: 'application/signed-exchange;v=b3;q=0.7,*/*;q=0.8',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://pub-7d894854e1e45db79d4a.tracking.refersion.com/r.html
+Request method: GET
+Request headers: {
+  accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  referer: 'https://www.myfonts.com/',
+  'upgrade-insecure-requests': '1',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://www.mczbf.com/184382925716/pageInfo
+Request method: POST
+Request headers: {
+  accept: '*/*',
+  'content-type': 'application/x-www-form-urlencoded',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.shopify.com/shopifycloud/checkout-web/assets/240.latest.en.d48b54ea867b809eedba.js
+Request method: GET
+Request headers: {
+  accept: 'application/signed-exchange;v=b3;q=0.7,*/*;q=0.8',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.refersion.com/xdlspma.min.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  referer: 'https://pub-7d894854e1e45db79d4a.tracking.refersion.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.shopify.com/shopifycloud/checkout-web/assets/904.latest.en.2004013e445b7353dc80.js
+Request method: GET
+Request headers: {
+  accept: 'application/signed-exchange;v=b3;q=0.7,*/*;q=0.8',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://tracking.refersion.com/start
+Request method: POST
+Request headers: {
+  accept: '*/*',
+  'content-type': 'text/plain;charset=UTF-8',
+  key: 'pub_7d894854e1e45db79d4a',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: {"url":"https://www.myfonts.com/collections/cultivated-mind-foundry"}
+Request URL: https://cdn.shopify.com/shopifycloud/checkout-web/assets/44.latest.en.ed5da7e5a1dddfca0e79.js
+Request method: GET
+Request headers: {
+  accept: 'application/signed-exchange;v=b3;q=0.7,*/*;q=0.8',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.shopify.com/shopifycloud/checkout-web/assets/OnePage.latest.en.14ac8a1ce5fd938ca670.js
+Request method: GET
+Request headers: {
+  accept: 'application/signed-exchange;v=b3;q=0.7,*/*;q=0.8',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.shopify.com/shopifycloud/checkout-web/assets/272.latest.en.a30f4bd2dcc6ba6e87f5.css
+Request method: GET
+Request headers: {
+  accept: 'application/signed-exchange;v=b3;q=0.7,*/*;q=0.8',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.shopify.com/shopifycloud/checkout-web/assets/app.latest.en.e5a7f63ca146c0549466.css
+Request method: GET
+Request headers: {
+  accept: 'application/signed-exchange;v=b3;q=0.7,*/*;q=0.8',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.shopify.com/shopifycloud/checkout-web/assets/904.latest.en.4d273af8acf76b1eb555.css
+Request method: GET
+Request headers: {
+  accept: 'application/signed-exchange;v=b3;q=0.7,*/*;q=0.8',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.shopify.com/shopifycloud/checkout-web/assets/457.latest.en.0c56a163bd2cc1f47527.css
+Request method: GET
+Request headers: {
+  accept: 'application/signed-exchange;v=b3;q=0.7,*/*;q=0.8',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.shopify.com/s/files/1/0568/7164/9450/files/MT_MyFonts_logo_transparent_RGB_x320.png?v=1658909361
+Request method: GET
+Request headers: {
+  accept: 'application/signed-exchange;v=b3;q=0.7,*/*;q=0.8',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://www.myfonts.com/.well-known/shopify/monorail/v1/produce
+Request method: POST
+Request headers: {
+  accept: '*/*',
+  'content-type': 'text/plain',
+  cookie: 'secure_customer_sig=; localization=US; cart_currency=USD; _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%
+22%3Afalse%7D; _tracking_consent=%7B%22lim%22%3A%5B%22CMP%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22BDC%22%2C%22reg%22%3A%22%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%
+22s%22%3A%22%22%7D%7D%7D; _shopify_y=7a75d16b-0e23-4bc5-91e3-5f502164f685; _orig_referrer=; _landing_page=%2Fcollections%2Fcultivated-mind-foundry; __cf_bm=f8q6uBLrQ3O6Uguu52dZz41L5u0Zct15Bussgpa3OPc-1708248542-1.0-ARRFuhHga
+2FGY/9IPwXgsZBwpp6xITR/bNn5zLZ1tObIxNh82xqiLXUFVixABsPG4kQmGxe97BGjsTnxHCavqq4=; AMCVS_6F4D62F6652DA0970A495FA5%40AdobeOrg=1; _shopify_s=c3d526f3-e880-4fd9-8bd9-6f52d55014bb; _ALGOLIA=anonymous-6a15ec58-bcca-45e7-a148-6c70f7
+7d4ecd; _shopify_sa_t=2024-02-18T09%3A26%3A18.809Z; _shopify_sa_p=; AMCV_6F4D62F6652DA0970A495FA5%40AdobeOrg=179643557%7CMCIDTS%7C19772%7CMCMID%7C50304190974219910982651954574496311037%7CMCAAMLH-1708853178%7C3%7CMCAAMB-17088
+53178%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1708255578s%7CNONE%7CMCSYNCSOP%7C411-19779%7CvVersion%7C5.5.0; cjConsent=MHxOfDB8Tnww; cjUser=f60e3df0-c49b-4426-b71b-929e52eb1269; _privy_8194D6E94D95C
+D7F2CEC7A36=%7B%22uuid%22%3A%22146a106f-ce89-4e44-8322-cab5e4850419%22%7D; kndctr_6F4D62F6652DA0970A495FA5_AdobeOrg_cluster=irl1; kndctr_6F4D62F6652DA0970A495FA5_AdobeOrg_identity=CiY1MDMwNDE5MDk3NDIxOTkxMDk4MjY1MTk1NDU3NDQ5
+NjMxMTAzN1IRCIPjsNzbMRgBKgRJUkwxMAPwAYPjsNzbMQ==; _dd_s=rum=0&expire=1708249279127',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/collections/cultivated-mind-foundry',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://ak.sail-horizon.com/spm/spm.v1.min.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://www.myfonts.com/apps/customer
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  cookie: 'secure_customer_sig=; localization=US; cart_currency=USD; _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%
+22%3Afalse%7D; _tracking_consent=%7B%22lim%22%3A%5B%22CMP%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22BDC%22%2C%22reg%22%3A%22%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%
+22s%22%3A%22%22%7D%7D%7D; _shopify_y=7a75d16b-0e23-4bc5-91e3-5f502164f685; _orig_referrer=; _landing_page=%2Fcollections%2Fcultivated-mind-foundry; __cf_bm=f8q6uBLrQ3O6Uguu52dZz41L5u0Zct15Bussgpa3OPc-1708248542-1.0-ARRFuhHga
+2FGY/9IPwXgsZBwpp6xITR/bNn5zLZ1tObIxNh82xqiLXUFVixABsPG4kQmGxe97BGjsTnxHCavqq4=; AMCVS_6F4D62F6652DA0970A495FA5%40AdobeOrg=1; _shopify_s=c3d526f3-e880-4fd9-8bd9-6f52d55014bb; _ALGOLIA=anonymous-6a15ec58-bcca-45e7-a148-6c70f7
+7d4ecd; _shopify_sa_t=2024-02-18T09%3A26%3A18.809Z; _shopify_sa_p=; AMCV_6F4D62F6652DA0970A495FA5%40AdobeOrg=179643557%7CMCIDTS%7C19772%7CMCMID%7C50304190974219910982651954574496311037%7CMCAAMLH-1708853178%7C3%7CMCAAMB-17088
+53178%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1708255578s%7CNONE%7CMCSYNCSOP%7C411-19779%7CvVersion%7C5.5.0; cjConsent=MHxOfDB8Tnww; cjUser=f60e3df0-c49b-4426-b71b-929e52eb1269; _privy_8194D6E94D95C
+D7F2CEC7A36=%7B%22uuid%22%3A%22146a106f-ce89-4e44-8322-cab5e4850419%22%7D; kndctr_6F4D62F6652DA0970A495FA5_AdobeOrg_cluster=irl1; kndctr_6F4D62F6652DA0970A495FA5_AdobeOrg_identity=CiY1MDMwNDE5MDk3NDIxOTkxMDk4MjY1MTk1NDU3NDQ5
+NjMxMTAzN1IRCIPjsNzbMRgBKgRJUkwxMAPwAYPjsNzbMQ==; _dd_s=rum=0&expire=1708249279127',
+  referer: 'https://www.myfonts.com/collections/cultivated-mind-foundry',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'x-requested-with': 'XMLHttpRequest',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://static.monotype.com/search-results-page/2.0.15/searchresult-184.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  cookie: '__cf_bm=5WbY0Ze11JCcUR.1pNXTydwbhuGOZDg2hciGZ1Y22LY-1708248542-1.0-AYHfIsj7hkwNX9oVfjj0m9e8ZY+w8leyg4k747BOGa5NN2JbVSfDCEoWmFXJGQ4MtypVBP1hHWhxK+21+IdwXZw=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://static.monotype.com/search-results-page/2.0.15/searchresult-886.css
+Request method: GET
+Request headers: {
+  accept: 'text/css,*/*;q=0.1',
+  cookie: '__cf_bm=5WbY0Ze11JCcUR.1pNXTydwbhuGOZDg2hciGZ1Y22LY-1708248542-1.0-AYHfIsj7hkwNX9oVfjj0m9e8ZY+w8leyg4k747BOGa5NN2JbVSfDCEoWmFXJGQ4MtypVBP1hHWhxK+21+IdwXZw=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://static.monotype.com/search-results-page/2.0.15/searchresult-886.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  cookie: '__cf_bm=5WbY0Ze11JCcUR.1pNXTydwbhuGOZDg2hciGZ1Y22LY-1708248542-1.0-AYHfIsj7hkwNX9oVfjj0m9e8ZY+w8leyg4k747BOGa5NN2JbVSfDCEoWmFXJGQ4MtypVBP1hHWhxK+21+IdwXZw=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://static.monotype.com/search-results-page/2.0.15/searchresult-581.css
+Request method: GET
+Request headers: {
+  accept: 'text/css,*/*;q=0.1',
+  cookie: '__cf_bm=5WbY0Ze11JCcUR.1pNXTydwbhuGOZDg2hciGZ1Y22LY-1708248542-1.0-AYHfIsj7hkwNX9oVfjj0m9e8ZY+w8leyg4k747BOGa5NN2JbVSfDCEoWmFXJGQ4MtypVBP1hHWhxK+21+IdwXZw=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://static.monotype.com/search-results-page/2.0.15/searchresult-581.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  cookie: '__cf_bm=5WbY0Ze11JCcUR.1pNXTydwbhuGOZDg2hciGZ1Y22LY-1708248542-1.0-AYHfIsj7hkwNX9oVfjj0m9e8ZY+w8leyg4k747BOGa5NN2JbVSfDCEoWmFXJGQ4MtypVBP1hHWhxK+21+IdwXZw=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://www.myfonts.com/cart/update.js
+Request method: POST
+Request headers: {
+  accept: '*/*',
+  'content-type': 'application/json',
+  cookie: 'secure_customer_sig=; localization=US; cart_currency=USD; _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%
+22%3Afalse%7D; _tracking_consent=%7B%22lim%22%3A%5B%22CMP%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22BDC%22%2C%22reg%22%3A%22%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%
+22s%22%3A%22%22%7D%7D%7D; _shopify_y=7a75d16b-0e23-4bc5-91e3-5f502164f685; _orig_referrer=; _landing_page=%2Fcollections%2Fcultivated-mind-foundry; __cf_bm=f8q6uBLrQ3O6Uguu52dZz41L5u0Zct15Bussgpa3OPc-1708248542-1.0-ARRFuhHga
+2FGY/9IPwXgsZBwpp6xITR/bNn5zLZ1tObIxNh82xqiLXUFVixABsPG4kQmGxe97BGjsTnxHCavqq4=; AMCVS_6F4D62F6652DA0970A495FA5%40AdobeOrg=1; _shopify_s=c3d526f3-e880-4fd9-8bd9-6f52d55014bb; _ALGOLIA=anonymous-6a15ec58-bcca-45e7-a148-6c70f7
+7d4ecd; _shopify_sa_t=2024-02-18T09%3A26%3A18.809Z; _shopify_sa_p=; AMCV_6F4D62F6652DA0970A495FA5%40AdobeOrg=179643557%7CMCIDTS%7C19772%7CMCMID%7C50304190974219910982651954574496311037%7CMCAAMLH-1708853178%7C3%7CMCAAMB-17088
+53178%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1708255578s%7CNONE%7CMCSYNCSOP%7C411-19779%7CvVersion%7C5.5.0; cjConsent=MHxOfDB8Tnww; cjUser=f60e3df0-c49b-4426-b71b-929e52eb1269; _privy_8194D6E94D95C
+D7F2CEC7A36=%7B%22uuid%22%3A%22146a106f-ce89-4e44-8322-cab5e4850419%22%7D; kndctr_6F4D62F6652DA0970A495FA5_AdobeOrg_cluster=irl1; kndctr_6F4D62F6652DA0970A495FA5_AdobeOrg_identity=CiY1MDMwNDE5MDk3NDIxOTkxMDk4MjY1MTk1NDU3NDQ5
+NjMxMTAzN1IRCIPjsNzbMRgBKgRJUkwxMAPwAYPjsNzbMQ==; _dd_s=rum=0&expire=1708249279127',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/collections/cultivated-mind-foundry',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: {"attributes":{"Refersion ID":"b66b6125f4e39580ba217f060f758c1d"}}
+Request URL: https://api.sail-personalize.com/v1/personalize/simple?pageviews=1&isMobile=0
+Request method: GET
+Request headers: {
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  accept: 'application/json',
+  authorization: 'Bearer 45c7755b79caca80c515e99c488dbf6c',
+  'content-type': 'application/json',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"',
+  'x-lib-version': 'v1.0.1',
+  'x-referring-url': 'https://www.myfonts.com/collections/cultivated-mind-foundry'
+}
+Request post data: null
+Request URL: https://static.monotype.com/search-results-page/2.0.15/searchresult-628.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  cookie: '__cf_bm=5WbY0Ze11JCcUR.1pNXTydwbhuGOZDg2hciGZ1Y22LY-1708248542-1.0-AYHfIsj7hkwNX9oVfjj0m9e8ZY+w8leyg4k747BOGa5NN2JbVSfDCEoWmFXJGQ4MtypVBP1hHWhxK+21+IdwXZw=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://static.monotype.com/search-results-page/2.0.15/searchresult-679.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  cookie: '__cf_bm=5WbY0Ze11JCcUR.1pNXTydwbhuGOZDg2hciGZ1Y22LY-1708248542-1.0-AYHfIsj7hkwNX9oVfjj0m9e8ZY+w8leyg4k747BOGa5NN2JbVSfDCEoWmFXJGQ4MtypVBP1hHWhxK+21+IdwXZw=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://static.monotype.com/search-results-page/2.0.15/searchresult-33.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  cookie: '__cf_bm=5WbY0Ze11JCcUR.1pNXTydwbhuGOZDg2hciGZ1Y22LY-1708248542-1.0-AYHfIsj7hkwNX9oVfjj0m9e8ZY+w8leyg4k747BOGa5NN2JbVSfDCEoWmFXJGQ4MtypVBP1hHWhxK+21+IdwXZw=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://static.monotype.com/search-results-page/2.0.15/searchresult-480.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  cookie: '__cf_bm=5WbY0Ze11JCcUR.1pNXTydwbhuGOZDg2hciGZ1Y22LY-1708248542-1.0-AYHfIsj7hkwNX9oVfjj0m9e8ZY+w8leyg4k747BOGa5NN2JbVSfDCEoWmFXJGQ4MtypVBP1hHWhxK+21+IdwXZw=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://sig.monotype.com/render/101/font/e90d3545c6502674f780c6fffbfac557?rt=The+quick+brown+fox+jumps+over+the+lazy+dog.&rs=48&fg=000000&bg=ffffff&w=1188&ft=&tp=0&t=o
+Request method: GET
+Request headers: {
+  accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  cookie: '__cf_bm=5WbY0Ze11JCcUR.1pNXTydwbhuGOZDg2hciGZ1Y22LY-1708248542-1.0-AYHfIsj7hkwNX9oVfjj0m9e8ZY+w8leyg4k747BOGa5NN2JbVSfDCEoWmFXJGQ4MtypVBP1hHWhxK+21+IdwXZw=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.myfonts.net/cdn-cgi/image/width=400,height=auto,fit=contain,format=auto/images/pim//10001/176318_a9e593d232d7b9bad6d47c2585d588c3.png
+Request method: GET
+Request headers: {
+  accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  cookie: '__cf_bm=u7Efbat.E7M8YgviQdFc3Rs8M2tf3fW7Rv7lWjYUNYg-1708248543-1.0-Afo38vcmsdTEtsSpPnh5/JSNW2EkWnJrsGnKxrJ8x5NLd1EQEFpVcW8NgpMsepD8IZS/21BfICulgwLRL8azNUQ=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.myfonts.net/cdn-cgi/image/width=400,height=auto,fit=contain,format=auto/images/pim//10001/144946_a22efda734f77b276491d6054e637d2a.jpeg
+Request method: GET
+Request headers: {
+  accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  cookie: '__cf_bm=u7Efbat.E7M8YgviQdFc3Rs8M2tf3fW7Rv7lWjYUNYg-1708248543-1.0-Afo38vcmsdTEtsSpPnh5/JSNW2EkWnJrsGnKxrJ8x5NLd1EQEFpVcW8NgpMsepD8IZS/21BfICulgwLRL8azNUQ=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.myfonts.net/cdn-cgi/image/width=400,height=auto,fit=contain,format=auto/images/pim//10001/144945_448409adbbce253eff332b68c43913dd.jpeg
+Request method: GET
+Request headers: {
+  accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  cookie: '__cf_bm=u7Efbat.E7M8YgviQdFc3Rs8M2tf3fW7Rv7lWjYUNYg-1708248543-1.0-Afo38vcmsdTEtsSpPnh5/JSNW2EkWnJrsGnKxrJ8x5NLd1EQEFpVcW8NgpMsepD8IZS/21BfICulgwLRL8azNUQ=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.myfonts.net/cdn-cgi/image/width=400,height=auto,fit=contain,format=auto/images/pim//10001/144944_2d7051abb91caea0bf45dc3abde2eeb9.jpeg
+Request method: GET
+Request headers: {
+  accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  cookie: '__cf_bm=u7Efbat.E7M8YgviQdFc3Rs8M2tf3fW7Rv7lWjYUNYg-1708248543-1.0-Afo38vcmsdTEtsSpPnh5/JSNW2EkWnJrsGnKxrJ8x5NLd1EQEFpVcW8NgpMsepD8IZS/21BfICulgwLRL8azNUQ=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.myfonts.net/cdn-cgi/image/width=400,height=auto,fit=contain,format=auto/images/pim//10001/144941_2efd836dee7a9368e57ac371c4d165ec.jpeg
+Request method: GET
+Request headers: {
+  accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  cookie: '__cf_bm=u7Efbat.E7M8YgviQdFc3Rs8M2tf3fW7Rv7lWjYUNYg-1708248543-1.0-Afo38vcmsdTEtsSpPnh5/JSNW2EkWnJrsGnKxrJ8x5NLd1EQEFpVcW8NgpMsepD8IZS/21BfICulgwLRL8azNUQ=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.myfonts.net/cdn-cgi/image/width=400,height=auto,fit=contain,format=auto/images/pim//10001/144940_fd0a7b27a46c55825586c4182bb886b7.jpeg
+Request method: GET
+Request headers: {
+  accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  cookie: '__cf_bm=u7Efbat.E7M8YgviQdFc3Rs8M2tf3fW7Rv7lWjYUNYg-1708248543-1.0-Afo38vcmsdTEtsSpPnh5/JSNW2EkWnJrsGnKxrJ8x5NLd1EQEFpVcW8NgpMsepD8IZS/21BfICulgwLRL8azNUQ=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://cdn.myfonts.net/cdn-cgi/image/width=400,height=auto,fit=contain,format=auto/images/pim//10001/144943_fd971c3fd3aaf7a97c36d350f466f847.jpeg
+Request method: GET
+Request headers: {
+  accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  cookie: '__cf_bm=u7Efbat.E7M8YgviQdFc3Rs8M2tf3fW7Rv7lWjYUNYg-1708248543-1.0-Afo38vcmsdTEtsSpPnh5/JSNW2EkWnJrsGnKxrJ8x5NLd1EQEFpVcW8NgpMsepD8IZS/21BfICulgwLRL8azNUQ=',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://tracking.refersion.com/page_view
+Request method: POST
+Request headers: {
+  accept: '*/*',
+  'content-type': 'text/plain;charset=UTF-8',
+  key: 'pub_7d894854e1e45db79d4a',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: {"id":"b66b6125f4e39580ba217f060f758c1d","url":"https://www.myfonts.com/collections/cultivated-mind-foundry","aid":null,"cs":null,"referrer":"","cart_type":null}
+Request URL: https://tracking.refersion.com/checkout
+Request method: POST
+Request headers: {
+  accept: '*/*',
+  'content-type': 'text/plain;charset=UTF-8',
+  key: 'pub_7d894854e1e45db79d4a',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: {"checkout_id":"9465697c6f53a3fffe2694a82bd86a42","id":"b66b6125f4e39580ba217f060f758c1d","url":"https://www.myfonts.com/collections/cultivated-mind-foundry","aid":null,"cs":null,"cart_type":"SHOPIFY"}    
+Request URL: https://www.myfonts.com/cart.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  cookie: 'secure_customer_sig=; localization=US; cart_currency=USD; _cmp_a=%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%
+22%3Afalse%7D; _tracking_consent=%7B%22lim%22%3A%5B%22CMP%22%5D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22BDC%22%2C%22reg%22%3A%22%22%2C%22con%22%3A%7B%22CMP%22%3A%7B%22p%22%3A%22%22%2C%22m%22%3A%22%22%2C%22a%22%3A%22%22%2C%
+22s%22%3A%22%22%7D%7D%7D; _shopify_y=7a75d16b-0e23-4bc5-91e3-5f502164f685; _orig_referrer=; _landing_page=%2Fcollections%2Fcultivated-mind-foundry; __cf_bm=f8q6uBLrQ3O6Uguu52dZz41L5u0Zct15Bussgpa3OPc-1708248542-1.0-ARRFuhHga
+2FGY/9IPwXgsZBwpp6xITR/bNn5zLZ1tObIxNh82xqiLXUFVixABsPG4kQmGxe97BGjsTnxHCavqq4=; AMCVS_6F4D62F6652DA0970A495FA5%40AdobeOrg=1; _shopify_s=c3d526f3-e880-4fd9-8bd9-6f52d55014bb; _ALGOLIA=anonymous-6a15ec58-bcca-45e7-a148-6c70f7
+7d4ecd; _shopify_sa_t=2024-02-18T09%3A26%3A18.809Z; _shopify_sa_p=; AMCV_6F4D62F6652DA0970A495FA5%40AdobeOrg=179643557%7CMCIDTS%7C19772%7CMCMID%7C50304190974219910982651954574496311037%7CMCAAMLH-1708853178%7C3%7CMCAAMB-17088
+53178%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1708255578s%7CNONE%7CMCSYNCSOP%7C411-19779%7CvVersion%7C5.5.0; cjConsent=MHxOfDB8Tnww; cjUser=f60e3df0-c49b-4426-b71b-929e52eb1269; kndctr_6F4D62F6652DA
+0970A495FA5_AdobeOrg_cluster=irl1; kndctr_6F4D62F6652DA0970A495FA5_AdobeOrg_identity=CiY1MDMwNDE5MDk3NDIxOTkxMDk4MjY1MTk1NDU3NDQ5NjMxMTAzN1IRCIPjsNzbMRgBKgRJUkwxMAPwAYPjsNzbMQ==; sailthru_pageviews=1; _dd_s=rum=0&expire=1708
+249279127; cart=9465697c6f53a3fffe2694a82bd86a42; cart_ts=1708248545; cart_sig=db3e26db1ff75ee951904c4d586d8f50; _privy_8194D6E94D95CD7F2CEC7A36=%7B%22uuid%22%3A%22146a106f-ce89-4e44-8322-cab5e4850419%22%2C%22variations%22%3
+A%7B%7D%2C%22country_code%22%3A%22BD%22%2C%22region_code%22%3A%22BD_C%22%2C%22postal_code%22%3A%221000%22%7D',
+  referer: 'https://www.myfonts.com/collections/cultivated-mind-foundry',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://assets.privy.com/packs/js/755-abe14dc84751c419cb42.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://assets.privy.com/packs/js/908-000e1ac551df9d63c8a5.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://assets.privy.com/packs/js/864-e97430f5f316998a0c34.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://assets.privy.com/packs/js/538-64b5a4724da0cbad8418.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://assets.privy.com/packs/js/legacy_widget-77347368f315fe42ebe0.chunk.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://assets.privy.com/packs/js/875-52f4db06980bc6d9e69e.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://assets.privy.com/packs/js/663-0d1dc20acd93ddb516c0.chunk.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://assets.privy.com/packs/js/77-4539bf731ddce5b95f57.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://assets.privy.com/packs/js/modern_widget-fe351dad001feb084277.chunk.js
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://events.privy.com/v2/collect
+Request method: POST
+Request headers: {
+  accept: '*/*',
+  'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: {"event":"new-session","properties":{"referring_url":"","url":"https://www.myfonts.com/collections/cultivated-mind-foundry","sessions_count":1},"meta":{"business_id":"8194D6E94D95CD7F2CEC7A36"}}
+Request URL: https://assets.privy.com/assets/widget-f7bedc88f5d7f36c2240bbbfdd34b1550a86336a959c1e8553e5604b955bb2da.css
+Request method: GET
+Request headers: {
+  accept: 'text/css,*/*;q=0.1',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://privymktg.com/collect?v=1&cid=146a106f-ce89-4e44-8322-cab5e4850419&cd1=8194D6E94D95CD7F2CEC7A36&tid=UA-20331028-1&t=pageview&ci=8194D6E94D95CD7F2CEC7A36&cm=web&cn=8194D6E94D95CD7F2CEC7A36&ec=widget&dl=ht
+tps%3A%2F%2Fwww.myfonts.com%2Fcollections%2Fcultivated-mind-foundry&dt=Cultivated%20Mind%20Font%20Foundry%20%7C%20MyFonts&ul=en-US&z=09670761397557359
+Request method: GET
+Request headers: {
+  accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.googleapis.com/css?family=Old+Standard+TT:400%7CCousine:400%7CSource+Sans+Pro:400
+Request method: GET
+Request headers: {
+  accept: 'text/css,*/*;q=0.1',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.googleapis.com/css?family=Lato:400
+Request method: GET
+Request headers: {
+  accept: 'text/css,*/*;q=0.1',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.googleapis.com/css?family=Lato:400,undefined
+Request method: GET
+Request headers: {
+  accept: 'text/css,*/*;q=0.1',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.googleapis.com/css?family=Lato:400,undefined%7COpen+Sans:400
+Request method: GET
+Request headers: {
+  accept: 'text/css,*/*;q=0.1',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.googleapis.com/css?family=Lato:300,400,700,undefined
+Request method: GET
+Request headers: {
+  accept: 'text/css,*/*;q=0.1',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.googleapis.com/css?family=Lato:400,500,undefined%7COpen+Sans:400
+Request method: GET
+Request headers: {
+  accept: 'text/css,*/*;q=0.1',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://google-analytics.com/collect?v=1&cid=146a106f-ce89-4e44-8322-cab5e4850419&cd1=8194D6E94D95CD7F2CEC7A36&tid=UA-20331028-1&t=pageview&ci=8194D6E94D95CD7F2CEC7A36&cm=web&cn=8194D6E94D95CD7F2CEC7A36&ec=widge
+t&dl=https%3A%2F%2Fwww.myfonts.com%2Fcollections%2Fcultivated-mind-foundry&dt=Cultivated%20Mind%20Font%20Foundry%20%7C%20MyFonts&ul=en-US&z=09670761397557359
+Request method: GET
+Request headers: {
+  accept: 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  referer: 'https://www.myfonts.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXg.woff2
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://fonts.googleapis.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXg.woff2
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://fonts.googleapis.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wXg.woff2
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://fonts.googleapis.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.gstatic.com/s/oldstandardtt/v20/MwQubh3o1vLImiwAVvYawgcf2eVeqlq4.woff2
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://fonts.googleapis.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.gstatic.com/s/cousine/v27/d6lIkaiiRdih4SpP_SQvzA.woff2
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://fonts.googleapis.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://fonts.googleapis.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://fonts.googleapis.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVI.woff2
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://fonts.googleapis.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPGQ.woff2
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://fonts.googleapis.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null
+Request URL: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPGQ.woff2
+Request method: GET
+Request headers: {
+  accept: '*/*',
+  origin: 'https://www.myfonts.com',
+  referer: 'https://fonts.googleapis.com/',
+  'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36',
+  'sec-ch-ua': '"Not A(Brand";v="99", "HeadlessChrome";v="121", "Chromium";v="121"',
+  'sec-ch-ua-mobile': '?0',
+  'sec-ch-ua-platform': '"Windows"'
+}
+Request post data: null

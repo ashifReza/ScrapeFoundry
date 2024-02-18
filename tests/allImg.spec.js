@@ -8,19 +8,13 @@ test("test", async ({ browser }) => {
     "https://www.myfonts.com/collections/cultivated-mind-foundry"
   );
   await page.pause();
-  // await page.evaluate(() => {
-  //   document.body.style.zoom=0.25;
-  // });
 
   await page.waitForTimeout(10000);
-  // await page.locator('div:has-text("Hello! 👋 ")').hover();
-  // await page.locator("div[aria-label='Dismiss']").click()
   await page.locator("#onetrust-accept-btn-handler").click();
-  await page.waitForTimeout(2000);
 
   await page.evaluate(async () => {
     const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
-    for (let i = 0; i < document.body.scrollHeight; i += 100) {
+    for (let i = 0; i < document.body.scrollHeight; i += 500) {
       window.scrollTo(0, i);
       await delay(2);
     }
@@ -36,8 +30,9 @@ test("test", async ({ browser }) => {
   console.log("the image count: " + imageCount);
 
   // Img iterator
-  for (let j = 0; j < imageCount; j++) {
-    let urlstring = await imageLoc.nth(j).getAttribute("src");
+  for (let j = 1; j < imageCount; j++) {
+    let originalUrl = await imageLoc.nth(j).getAttribute("src");
+    let urlstring = originalUrl.replace('width=400', 'width=600');
     console.log(urlstring);
 
     // Img download
@@ -65,7 +60,6 @@ test("test", async ({ browser }) => {
         console.log(j);
 
         // Move to a new URL
-        // await page.goBack(); // Go back to the previous page to navigate to the next URL
         await page.goto(
           "https://www.myfonts.com/collections/cultivated-mind-foundry"
         );
@@ -73,7 +67,7 @@ test("test", async ({ browser }) => {
         await page.waitForTimeout(2000);
         await page.evaluate(async () => {
           const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
-          for (let i = 0; i < document.body.scrollHeight; i += 100) {
+          for (let i = 0; i < document.body.scrollHeight; i += 500) {
             window.scrollTo(0, i);
             await delay(2);
           }
@@ -85,7 +79,7 @@ test("test", async ({ browser }) => {
 
     await page.evaluate(async () => {
       const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
-      for (let i = 0; i < document.body.scrollHeight; i += 100) {
+      for (let i = 0; i < document.body.scrollHeight; i += 500) {
         window.scrollTo(0, i);
         await delay(2);
       }
